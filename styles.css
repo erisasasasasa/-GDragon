@@ -1,0 +1,36 @@
+title {
+    font-family: 'Oleo Script', cursive;
+}
+
+p {
+    text-align: center;
+    font-size: 70px;
+}
+
+li {
+    font-size: 30px;
+    font-family: 'Oleo Script', cursive;
+}
+
+body{
+    background: url("https://i.pinimg.com/originals/f8/56/5c/f8565c8128df0717b1b6f8ffd631665e.gif");
+}
+input {
+    font-size: 30px;
+    text-align: center;
+}
+
+img:hover{
+    width: 50%;
+}
+
+h2 {
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Libre Barcode 128 Text', cursive;
+    text-align: center;
+}
+h3{}
